@@ -1,0 +1,112 @@
+.container 
+{
+  background-color: rgba(0, 0, 0, 0.822);
+   width: 600px;
+   font-family: Lato,sans-serif; color: rgb(255, 255, 255); 
+   padding: 3%;
+}
+
+.fas { 
+    color: rgb(0, 0, 0); 
+    margin-left: auto;
+}
+
+.heading 
+{
+    color: rgba(165, 42, 42, 0.925);
+    font-size: 3rem; 
+    margin-bottom: 0px;
+}
+
+.second-heading
+{
+    font-size: small;
+    font-weight: 700;
+}
+
+
+.heading-icon 
+{ 
+    color: rgb(0, 177, 226); 
+}
+
+h1 { 
+    margin-bottom: 0px; 
+}
+
+.card { 
+    border-radius: 0px; padding: 10px; 
+}
+.col-6 { 
+    padding-right: 0px; 
+}
+
+.colored-icon { 
+    color: rgb(251, 93, 97); 
+}
+.row-0 {
+     margin-bottom: 5%; 
+    }
+
+.row-1-col-1 { 
+    background-color: rgb(255, 158, 27); 
+}
+
+.row-1-col-2 { 
+    background-color: rgb(0, 177, 226); 
+}
+
+.stat-large-text { 
+    font-weight: 900; font-size: 1.5rem; 
+}
+.row-2-col-1 { 
+    background-color: rgb(255, 89, 89); padding: 0px 2% 0px 0px; 
+}
+.row-2-icon { 
+    font-size: medium; 
+}
+.icon-group { 
+    padding: 0px 0px 2% 4%; 
+}
+.row-3-col-1 { 
+    background-color: rgb(0, 177, 226); 
+}
+.row-4-col-1 { 
+    background-color: rgb(255, 89, 89);
+ }
+.row-4-col-2 { 
+    background-color: rgb(255, 158, 27); 
+}
+.row-5-col-1 { 
+    background-color: rgb(0, 177, 226); 
+}
+.row-6-col-1 { 
+    background-color: rgb(255, 158, 27); 
+}
+.large-text { 
+    font-size: large; font-weight: 600; 
+}
+
+.row-7-col-1
+{
+    background-color: rgb(0, 177, 226); 
+}
+
+.row-7-col-2 
+{
+    background-color: rgb(255, 89, 89);
+}
+.fa-male { 
+    margin: 5px; 
+
+}
+.fa-dollar-sign 
+{
+    color: white;
+    margin-right: 110px;
+}
+
+.seventh-row 
+{
+    margin-top: 25px;
+}
